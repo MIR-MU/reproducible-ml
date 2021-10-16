@@ -2,7 +2,7 @@
 
 This repository contains the code for the experiments in Section 2
 (`word-analogy.ipynb`) and Section 4 (`positional-weighting.ipynb`) of
-our RASLAN 2020 paperr [“The Art of Reproducible Machine Learning: A Survey of
+our RASLAN 2020 paper [“The Art of Reproducible Machine Learning: A Survey of
 Methodology in Word Vector Experiments”][the-art-of-reproducible-machine-learning].
 
  [the-art-of-reproducible-machine-learning]: https://nlp.fi.muni.cz/raslan/raslan20.pdf#page=63
